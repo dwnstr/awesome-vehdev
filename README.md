@@ -1,4 +1,5 @@
-![blueprint](https://user-images.githubusercontent.com/48927090/217953968-90d9e814-2094-4008-b49b-963c9909864d.jpg)
+![Untitled-1](https://user-images.githubusercontent.com/48927090/217961854-3d1ac31e-efc9-4fb7-b305-2747bb7d4390.png)
+
 # Awesome Vehicle Dev
 A list of awesome and free resources and models for FiveM and GTA vehicle developers.
 
