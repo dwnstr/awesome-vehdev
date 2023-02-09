@@ -8,4 +8,4 @@ A collection of awesome and free parts and resources for vehicle devs in GTA and
 
 ![untitled](https://user-images.githubusercontent.com/48927090/217954258-43516487-42a0-4dd7-a432-f33859c76914.png)
 
-[Whelen WeCANX Controller](https://app.box.com/s/atlnsgp2radqlpx5ldm45o8xcdfk5g7q)
+<a href="https://app.box.com/s/atlnsgp2radqlpx5ldm45o8xcdfk5g7q" target="_blank">Whelen WeCANX Controller</a>
