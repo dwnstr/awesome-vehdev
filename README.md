@@ -4,10 +4,6 @@
 A list of awesome free resources, tools, and models/parts for GTA and FiveM vehicle developers.<br>
 Items marked with :green_circle: are copyright free and royalty free!
 
-This repository will also contain a definitive set of generic models by Dawnstar in the files.
-- **Castor** is the fictional parts brand!
-- **StellarTech** is the fictional lighting brand!
-
 # Resources
 - [Dawnstar Vehicle Documenation](https://docs.dwnstr.com/)
 - [Non-ELS Tutorial](https://docs.dwnstr.com/tutorial)
