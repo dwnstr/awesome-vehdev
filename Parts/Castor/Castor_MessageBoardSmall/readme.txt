@@ -1,4 +1,4 @@
-Castor Message Board by Dawnstar
+# Castor Message Board by Dawnstar
 https://discord.com/invite/zH3k624aSv
 
 License: https://creativecommons.org/licenses/by/4.0/
@@ -8,9 +8,9 @@ Free for commercial use with Credit.
 The Castor brand is a fictional brand, all of the assets under it's name are original work.
 You are free to use any Castor assets commercially without any risk.
 
-How to create custom emissives
+# How to create custom emissives
 
-Method 1 [Better]
+## Method 1 [Better]
 https:/fontmeme.com/pixel-fonts
 1. Enter your word in all-caps
 2. Select D3Beatmapism as your font
@@ -22,6 +22,6 @@ https:/fontmeme.com/pixel-fonts
 8. Use eraser and white brush to touch up the edges
 so all modules are either fully on or off
 
-Method 2 [Easier]
+## Method 2 [Easier]
 1. find a dot matrix font you like
 2. type your word using that font
