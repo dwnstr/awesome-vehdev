@@ -13,6 +13,9 @@ Items marked with :green_circle: are copyright free and royalty free!
 - [Non-ELS Tutorial](https://docs.dwnstr.com/tutorial)
 - [McGinlay Non-ELS Step-by-Step Youtube Playlist](https://www.youtube.com/watch?v=6dHmEvq4-30&list=PLqnyFbElJryCesionAQE1abPuH-q6AMD6)
 
+# Tools
+- [Siren Tool](https://www.dwnstr.com/sirentool/) - A tool for generating siren patterns for GTA and FiveM non-els vehicles.
+
 # Scripts
 - [Ultimate Lighting Controller (ULC)](https://github.com/Flohhhhh/ultimate-lighting-controller) - An all-in-one lighting controller for Non-ELS vehicles in FiveM. Very customizable.
 
