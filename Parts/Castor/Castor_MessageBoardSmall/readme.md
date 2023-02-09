@@ -1,12 +1,12 @@
-# Castor Message Board by Dawnstar
+# Castor Message Board by [Dawnstar](https://discord.com/invite/zH3k624aSv)
 https://discord.com/invite/zH3k624aSv
 
-License: https://creativecommons.org/licenses/by/4.0/
-Creative Commons with Attribution
-Free for commercial use with Credit.
+> License: [Creative Commons with Attribution](https://creativecommons.org/licenses/by/4.0/)
+> 
+> You are free to use this asset commercially as long as you provide credit to Dawnstar
 
-The Castor brand is a fictional brand, all of the assets under it's name are original work.
-You are free to use any Castor assets commercially without any risk.
+*The Castor brand is a fictional brand, all of the assets under it's name are original work.
+You are free to use any Castor assets commercially without any risk.*
 
 # How to create custom emissives
 
