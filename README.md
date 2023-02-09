@@ -11,6 +11,7 @@ Items marked with :green_circle: are copyright free and royalty free!
 # Resources
 - [Dawnstar Vehicle Documenation](https://docs.dwnstr.com/)
 - [Non-ELS Tutorial](https://docs.dwnstr.com/tutorial)
+- [McGinlay Non-ELS Step-by-Step Youtube Playlist](https://www.youtube.com/watch?v=6dHmEvq4-30&list=PLqnyFbElJryCesionAQE1abPuH-q6AMD6)
 
 # Scripts
 - [Ultimate Lighting Controller (ULC)](https://github.com/Flohhhhh/ultimate-lighting-controller) - An all-in-one lighting controller for Non-ELS vehicles in FiveM. Very customizable.
